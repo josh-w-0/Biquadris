@@ -10,3 +10,13 @@ The game is displayed through both text and graphics (using the XWindows library
 
 Initial startup:
 
+<img width="600" align="left" alt="graphics" src="https://raw.githubusercontent.com/josh-w-0/Biquadris/refs/heads/main/images/initial.png">
+<img width="200" alt="text" src="https://raw.githubusercontent.com/josh-w-0/Biquadris/refs/heads/main/images/initial2.png">
+
+<br><br><br><br><br><br><br><br>
+
+After playing:
+<br><br>
+<img width="600" align="left" alt="graphics" src="https://raw.githubusercontent.com/josh-w-0/Biquadris/refs/heads/main/images/tetris.png">
+<img width="200" alt="text" src="https://raw.githubusercontent.com/josh-w-0/Biquadris/refs/heads/main/images/tetris2.png">
+
